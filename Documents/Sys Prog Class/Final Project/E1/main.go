@@ -1,3 +1,4 @@
+//basic, encoding special characters and maximum length
 package main
 
 import (
